@@ -53,6 +53,7 @@ ENV_VAR_DEFS = [
     ("KIMI_API_KEY", "Kimi API Key", "provider", True),
     ("MINIMAX_API_KEY", "MiniMax API Key", "provider", True),
     ("HF_TOKEN", "Hugging Face Token", "provider", True),
+    ("OPENCODE_GO_API_KEY", "OpenCode Go API Key", "provider", True),
     # Tools
     ("PARALLEL_API_KEY", "Parallel API Key", "tool", True),
     ("FIRECRAWL_API_KEY", "Firecrawl API Key", "tool", True),
